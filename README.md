@@ -1,2 +1,2 @@
 # userprofile
-A small application based on MERN stack to perform CRUD operations on user details.
+MERN stack application to perform CRUD operations on user profile.
