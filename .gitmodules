@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = ./client
+[submodule "userProfile_client"]
+	path = userProfile_client
+	url = https://github.com/Aman09Agarwal/userProfile_client.git
